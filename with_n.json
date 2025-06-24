@@ -1,0 +1,2312 @@
+[
+  {
+    "kmer": "AAAAGANCAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAAGANCAGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAAGNCGCAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAANGNTCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAANTCATAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAGANCAGTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAGCAAGGGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAGGGNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAGTCANAGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAGTGGANGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AAGNCGCANC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AATATCNTCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AANGNTCNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AANTCATAGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AANNGNNCGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ACAGCCTNAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ACAGNGGGCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ACGGANCTNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGAAGTGGAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGAGCTGGGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGATGACAGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGANCAGTCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGCAAGGGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGCCTNAAAT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGCTGGGNGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGGGGGGNGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGGGNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGGTGNTCGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGTCANAGAC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGTGGANGAT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGNCGCANCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGNGGGCANN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "AGNTTCATCT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ATAAANGNTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ATATCNTCCG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ATCNTCCGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ATGACAGNGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ATTAAAGNCG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ATTNNGNNAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ATNTNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANAGACTTGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANCAGTCAGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANCTNCNGCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANGATNTNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANGNTCNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANTCATAGAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANNANNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANNCNNAGTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANNGNNCGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "ANNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAAANTCATA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAAGGGNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAAGTCANAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAATATCNTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAANNGNNCG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAGCCTNAAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAGGGGGGNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAGGTGNTCG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CAGNGGGCAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CATTAAAGNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CATTNNGNNA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CANAGACTTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CANNANNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCAGGTGNTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCCAGGTGNT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCCCAGGTGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCCCGNNCGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCCGNNCGTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCCTCGTTCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCCTTNTGTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCGNNCGTGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCTCATTNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCTCGTTCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCTGCTTGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCTGGGCAAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCTTNTGTCT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCTNAAATCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCNCGTTACC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCNCTTGTNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CCNNCNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGCANCNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGCCNNCNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGGANCTNCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGGGGGGNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGTGGGNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGTTCNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGNNCGTGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CGNNNGNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTCATTNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTCGTTCNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTGCTTGNNT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTGGGCAANN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTGGGTCTTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTGGGTGTNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTGGGNGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTTGATAAAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTTGTNGAGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTTGNNTNNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTTNAGTGAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTTNTGTCTT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTNAAATCAT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTNCNGCAAC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CTNNNCCCGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNCGTTACCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNCTTGTNGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNGCAACAGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNTCCGGGGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNNAGTCAGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNNCNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNNGCAAANT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNNGNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "CNNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "GAAAAGANCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GAAGTGGANG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GACAGCCTNA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GACAGNGGGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GACCTGGGTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GAGCTGGGNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GATAAANGNT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GATGACAGNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GATNTNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GANCAGTCAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GANCTNCNGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GANGATNTNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCAAANTCAT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCAAGGGNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCAAGTCANA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCAANNGNNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCAGGGGGGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCATTAAAGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCANCNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCANNANNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCCCCGNNCG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCCCTTNTGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCCTCATTNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCCTNAAATC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCCNNCNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCGGGGGGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCTGGGTGTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCTGGGNGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCTTGNNTNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GCNNGNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGACAGCCTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGANCTNCNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGANGATNTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGCAANNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGCATTGAAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGCANNANNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGCCCCGNNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGCCCTTNTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGCCTCATTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGCNNGNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGCAANNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGCANNANN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGCCCCGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGCCCCGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGGGGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGGGNNT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGGNGCG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGGNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGGNNTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGNGCGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGGNNTNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGNGCGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGNNGNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGGNNTNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGTCTTNAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGTGTNGTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGNGCGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGNGGGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGNNGNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGNNTNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGGNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGTCTTNAGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGTGTNGTGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGTGNTCGCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGNGCGGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGNGGGGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGNNGNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGNNTNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GGNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTCANAGACT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTCTTNAGTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTGGANGATN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTGGCNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTGGGNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTGTNGTGGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTGNTCGCCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTTCNNGNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTNGAGGGCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GTNGTGGCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNACAAGTGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNCCTCCGCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNCGCANCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNCTTCAGTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNGAAATGCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNGCGGGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNGGGCANNA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNGGGGGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNTCGCCNNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNTTCATCTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNCGTGGGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNCGNNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNGNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNTGAAAAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNTNNCNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNTNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNNGNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNNNNNNCT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "GNNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.000020699362459636242,
+    "enrichment": null
+  },
+  {
+    "kmer": "TAAAGNCGCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TAAANGNTCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TATCNTCCGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCATTNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCANAGACTT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCCTGCTTGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCCNCTTGTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCGCCNNCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCGTTCNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCTTNAGTGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCNTCCGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TCNNGNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGAAAAGANC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGACAGNGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGATAAANGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGCAAGTCAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGCTTGNNTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGGANGATNT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGGCNNGNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGGGCAANNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGGGTCTTNA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGGGTGTNGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGGGNGGGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGGGNNGNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGTNGAGGGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGTNGTGGCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGNTCGCCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TGNNTNNCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTAAAGNCGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTCNNGNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTGATAAANG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTGTNGAGGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTGNNTNNCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTNAGTGAAC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTNTGTCTTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TTNNGNNANN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNAAATCATC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNAGTGAACC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNCNGCAACA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNGAGGGCAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNGTGGCNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNTGTCTTGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNTNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNNCNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNNGNNANNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNNTCCNCTT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNNNCCCGCT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "TNNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "NAAACCCAAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NAAATCATCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NACAAGTGAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NAGACTTGGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NAGTCAGGCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NAGTGAACCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NANNCNNAGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NANNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCAGTCAGAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCCCGCTGGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCCTCCGCCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCGCANCNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCGTGGGNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCGTTACCCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCGNNNGNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCTTCAGTGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCTTGTNGAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCTNCNGCAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCTNNNCCCG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCNGCAACAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCNNAGTCAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCNNGCAAAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NCNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGAAATGCAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGAGGGCAGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGATNTNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGCAAANTCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGCAACAGAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGCGGGGGGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGGGCANNAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGGGGGGGGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGTGGCNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGNACAAGTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGNCTTCAGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGNGAAATGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGNNCGNNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGNNTGAAAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NGNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTCATAGAAC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTCCGGGGAC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTCCNCTTGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTCGCCNNCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTGAAAAGAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTGTCTTGCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTTCATCTGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTNNCNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTNNTCCNCT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NTNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNAAACCCAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNAGTCAGGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNANNCNNAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNANNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNCCCGCTGG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNCGTGGGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNCGNNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNCTNNNCCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNCNNAGTCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNCNNGCAAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNCNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGCAAANTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGNACAAGT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGNCTTCAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGNGAAATG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGNNANNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGNNCGNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGNNTGAAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNGNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.000020699362459636242,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNTCCNCTTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNTGAAAAGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNTNNCNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNTNNTCCNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNTNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNAAACCCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNANNCNNA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNCCCGCTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNCTNNNCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNCNNGCAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNGNACAAG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNGNCTTCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNGNGAAAT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNGNNTGAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNGNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNTNNTCCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNAAACCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNANNCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNCTNNNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNCNNGCA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNGNACAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNGNCTTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNGNGAAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNGNNTGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNTNNTCC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNAAACC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNANNCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNCTNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNCNNGC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNGNACA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNGNCTT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNGNGAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNGNNTG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNTNNTC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNAAAC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNANNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNCTNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNCNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNGNAC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNGNCT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNGNGA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNGNNT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNTNNT",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNAAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNANN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNCTN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNCNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNGNA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNGNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNGNG",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNGNN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNAA",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNAN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNCN",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNGN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00002759914994618166,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNNA",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00001379957497309083,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNNC",
+    "ref_prop": 0.0,
+    "bam_prop": 6.899787486545415e-6,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNNG",
+    "ref_prop": 0.0,
+    "bam_prop": 0.00002759914994618166,
+    "enrichment": null
+  },
+  {
+    "kmer": "NNNNNNNNNN",
+    "ref_prop": 0.0,
+    "bam_prop": 0.0002483923495156349,
+    "enrichment": null
+  }
+]
