@@ -23,7 +23,7 @@ fi
 ./target/release/kmer_counter \
     --bam data/NA06984_N.bam \
     --ref data/TP53.fasta \
-    --kmer 10 \
+    --kmer 6 \
     --output kmer_counts.tsv
 
 

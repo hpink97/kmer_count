@@ -1,2312 +1,1646 @@
 [
   {
-    "kmer": "AAAAGANCAG",
+    "kmer": "AAAGAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAAGANCAGT",
+    "kmer": "AAAGNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAAGNCGCAN",
+    "kmer": "AAANGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAANGNTCNN",
+    "kmer": "AAANTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAANTCATAG",
+    "kmer": "AAGANC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAGANCAGTC",
+    "kmer": "AAGGGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAGCAAGGGN",
+    "kmer": "AAGNCG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAGGGNNNNN",
+    "kmer": "AANGNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAGTCANAGA",
+    "kmer": "AANTCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAGTGGANGA",
+    "kmer": "AANNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AAGNCGCANC",
+    "kmer": "ACAGNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AATATCNTCC",
+    "kmer": "ACGGAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AANGNTCNNN",
+    "kmer": "AGANCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AANTCATAGA",
+    "kmer": "AGCCTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AANNGNNCGN",
+    "kmer": "AGGGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ACAGCCTNAA",
+    "kmer": "AGGTGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ACAGNGGGCA",
+    "kmer": "AGTCAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ACGGANCTNC",
+    "kmer": "AGNCGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGAAGTGGAN",
+    "kmer": "AGNGGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGAGCTGGGN",
+    "kmer": "AGNTTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGATGACAGN",
+    "kmer": "ATAAAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGANCAGTCA",
+    "kmer": "ATATCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGCAAGGGNN",
+    "kmer": "ATCNTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGCCTNAAAT",
+    "kmer": "ATTNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGCTGGGNGG",
+    "kmer": "ATNTNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGGGGGGNGC",
+    "kmer": "ANAGAC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGGGNNNNNN",
+    "kmer": "ANCAGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGGTGNTCGC",
+    "kmer": "ANCTNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGTCANAGAC",
+    "kmer": "ANCNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGTGGANGAT",
+    "kmer": "ANGATN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGNCGCANCN",
+    "kmer": "ANGNTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGNGGGCANN",
+    "kmer": "ANTCAT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "AGNTTCATCT",
+    "kmer": "ANNANN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ATAAANGNTC",
+    "kmer": "ANNCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ATATCNTCCG",
+    "kmer": "ANNGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ATCNTCCGGG",
+    "kmer": "ANNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ATGACAGNGG",
+    "kmer": "CAAANT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ATTAAAGNCG",
+    "kmer": "CAANNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ATTNNGNNAN",
+    "kmer": "CAGNGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ATNTNNNNNN",
+    "kmer": "CATTNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANAGACTTGG",
+    "kmer": "CANAGA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANCAGTCAGA",
+    "kmer": "CANCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANCTNCNGCA",
+    "kmer": "CANNAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANGATNTNNN",
+    "kmer": "CCCCGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANGNTCNNNN",
+    "kmer": "CCCGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANTCATAGAA",
+    "kmer": "CCCTTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANNANNNNNN",
+    "kmer": "CCGNNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANNCNNAGTC",
+    "kmer": "CCTTNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANNGNNCGNN",
+    "kmer": "CCTNAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "ANNNNNNNNN",
+    "kmer": "CCNCGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAAANTCATA",
+    "kmer": "CCNCTT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAAGGGNNNN",
+    "kmer": "CCNNCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAAGTCANAG",
+    "kmer": "CGCANC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAATATCNTC",
+    "kmer": "CGCCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAANNGNNCG",
+    "kmer": "CGGANC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAGCCTNAAA",
+    "kmer": "CGTTCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAGGGGGGNG",
+    "kmer": "CGNNCG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAGGTGNTCG",
+    "kmer": "CGNNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CAGNGGGCAN",
+    "kmer": "CTGGGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CATTAAAGNC",
+    "kmer": "CTTGTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CATTNNGNNA",
+    "kmer": "CTTGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CANAGACTTG",
+    "kmer": "CTTNAG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CANNANNNNN",
+    "kmer": "CTTNTG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCAGGTGNTC",
+    "kmer": "CTNAAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCCAGGTGNT",
+    "kmer": "CTNCNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCCCAGGTGN",
+    "kmer": "CTNNNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCCCGNNCGT",
+    "kmer": "CNCGTT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCCGNNCGTG",
+    "kmer": "CNCTTG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCCTCGTTCN",
+    "kmer": "CNGCAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCCTTNTGTC",
+    "kmer": "CNTCCG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCGNNCGTGG",
+    "kmer": "CNNAGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCTCATTNNG",
+    "kmer": "CNNCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCTCGTTCNN",
+    "kmer": "CNNGCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCTGCTTGNN",
+    "kmer": "CNNGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000019407426575236125,
     "enrichment": null
   },
   {
-    "kmer": "CCTGGGCAAN",
+    "kmer": "CNNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "CCTTNTGTCT",
+    "kmer": "GACAGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCTNAAATCA",
+    "kmer": "GATNTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCNCGTTACC",
+    "kmer": "GANCAG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCNCTTGTNG",
+    "kmer": "GANCTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CCNNCNNNNN",
+    "kmer": "GANGAT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGCANCNNGN",
+    "kmer": "GCAAAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGCCNNCNNN",
+    "kmer": "GCAANN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGGANCTNCN",
+    "kmer": "GCANCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGGGGGGNNG",
+    "kmer": "GCANNA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGTGGGNNGN",
+    "kmer": "GCCTNA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGTTCNNGNN",
+    "kmer": "GCCNNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGNNCGTGGG",
+    "kmer": "GCTTGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CGNNNGNNNN",
+    "kmer": "GCNNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTCATTNNGN",
+    "kmer": "GGANCT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTCGTTCNNG",
+    "kmer": "GGANGA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTGCTTGNNT",
+    "kmer": "GGCAAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTGGGCAANN",
+    "kmer": "GGCANN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTGGGTCTTN",
+    "kmer": "GGCNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTGGGTGTNG",
+    "kmer": "GGGCAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTGGGNGGGG",
+    "kmer": "GGGGGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000019407426575236125,
     "enrichment": null
   },
   {
-    "kmer": "CTTGATAAAN",
+    "kmer": "GGGGNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTTGTNGAGG",
+    "kmer": "GGGGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "CTTGNNTNNC",
+    "kmer": "GGGNGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTTNAGTGAA",
+    "kmer": "GGGNGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTTNTGTCTT",
+    "kmer": "GGGNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "CTNAAATCAT",
+    "kmer": "GGGNNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTNCNGCAAC",
+    "kmer": "GGGNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CTNNNCCCGC",
+    "kmer": "GGTGTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNCGTTACCC",
+    "kmer": "GGTGNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNCTTGTNGA",
+    "kmer": "GGNGCG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNGCAACAGA",
+    "kmer": "GGNGGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNTCCGGGGA",
+    "kmer": "GGNNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "CNNAGTCAGG",
+    "kmer": "GGNNTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNNCNNNNNN",
+    "kmer": "GGNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNNGCAAANT",
+    "kmer": "GTCANA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNNGNNNNNN",
+    "kmer": "GTCTTN",
     "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "CNNNNNNNNN",
+    "kmer": "GTGGAN",
     "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GAAAAGANCA",
+    "kmer": "GTGGCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GAAGTGGANG",
+    "kmer": "GTGGGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GACAGCCTNA",
+    "kmer": "GTGTNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GACAGNGGGC",
+    "kmer": "GTGNTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GACCTGGGTN",
+    "kmer": "GTTCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GAGCTGGGNG",
+    "kmer": "GTNGAG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GATAAANGNT",
+    "kmer": "GTNGTG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GATGACAGNG",
+    "kmer": "GNACAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GATNTNNNNN",
+    "kmer": "GNCCTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GANCAGTCAG",
+    "kmer": "GNCGCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GANCTNCNGC",
+    "kmer": "GNCTTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GANGATNTNN",
+    "kmer": "GNGAAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCAAANTCAT",
+    "kmer": "GNGCGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCAAGGGNNN",
+    "kmer": "GNGGGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCAAGTCANA",
+    "kmer": "GNGGGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCAANNGNNC",
+    "kmer": "GNTCGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCAGGGGGGN",
+    "kmer": "GNTCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCATTAAAGN",
+    "kmer": "GNTTCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCANCNNGNN",
+    "kmer": "GNNANN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCANNANNNN",
+    "kmer": "GNNCGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCCCCGNNCG",
+    "kmer": "GNNCGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCCCTTNTGT",
+    "kmer": "GNNGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "GCCTCATTNN",
+    "kmer": "GNNTGA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCCTNAAATC",
+    "kmer": "GNNTNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "GCCNNCNNNN",
+    "kmer": "GNNNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCGGGGGGNN",
+    "kmer": "GNNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.00004528399534221762,
     "enrichment": null
   },
   {
-    "kmer": "GCTGGGTGTN",
+    "kmer": "TAAAGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCTGGGNGGG",
+    "kmer": "TAAANG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCTTGNNTNN",
+    "kmer": "TATCNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GCNNGNNNNN",
+    "kmer": "TCATTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGACAGCCTN",
+    "kmer": "TCANAG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGANCTNCNG",
+    "kmer": "TCCNCT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGANGATNTN",
+    "kmer": "TCGCCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGCAANNGNN",
+    "kmer": "TCTTNA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGCATTGAAN",
+    "kmer": "TCNTCC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGCANNANNN",
+    "kmer": "TCNNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGCCCCGNNC",
+    "kmer": "TCNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGCCCTTNTG",
+    "kmer": "TGGANG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGCCTCATTN",
+    "kmer": "TGGCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGCNNGNNNN",
+    "kmer": "TGGGTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGCAANNGN",
+    "kmer": "TGGGNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGCANNANN",
+    "kmer": "TGGGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGCCCCGNN",
+    "kmer": "TGTNGA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGCCCCGN",
+    "kmer": "TGTNGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGGGGNN",
+    "kmer": "TGNTCG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGGGNNT",
+    "kmer": "TGNNTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGGNGCG",
+    "kmer": "TTCNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGGNNGN",
+    "kmer": "TTGAAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGGNNTN",
+    "kmer": "TTGTNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGNGCGG",
+    "kmer": "TTGNNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGNNGNN",
+    "kmer": "TTNAGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGGNNTNN",
+    "kmer": "TTNTGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGNGCGGG",
+    "kmer": "TTNNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGNNGNNN",
+    "kmer": "TNAAAT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGGNNTNNN",
+    "kmer": "TNAGTG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGTCTTNAG",
+    "kmer": "TNCNGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGTGTNGTG",
+    "kmer": "TNGAGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGNGCGGGG",
+    "kmer": "TNGTGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGNGGGGGG",
+    "kmer": "TNTGTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGNNGNNNN",
+    "kmer": "TNTNNN",
     "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGNNTNNNN",
+    "kmer": "TNNCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGGNNNNNNN",
+    "kmer": "TNNGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGTCTTNAGT",
+    "kmer": "TNNTCC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGTGTNGTGG",
+    "kmer": "TNNNCC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGTGNTCGCC",
+    "kmer": "TNNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "GGNGCGGGGG",
+    "kmer": "NAAACC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGNGGGGGGG",
+    "kmer": "NAAATC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGNNGNNNNN",
+    "kmer": "NACAAG",
     "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGNNTNNNNN",
+    "kmer": "NAGACT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GGNNNNNNNN",
+    "kmer": "NAGTCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTCANAGACT",
+    "kmer": "NAGTGA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTCTTNAGTG",
+    "kmer": "NANNCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTGGANGATN",
+    "kmer": "NANNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "GTGGCNNGNN",
+    "kmer": "NCAGTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTGGGNNGNN",
+    "kmer": "NCCCGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTGTNGTGGC",
+    "kmer": "NCCTCC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTGNTCGCCN",
+    "kmer": "NCGCAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTTCNNGNNN",
+    "kmer": "NCGTGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTNGAGGGCA",
+    "kmer": "NCGTTA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GTNGTGGCNN",
+    "kmer": "NCGNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNACAAGTGA",
+    "kmer": "NCTTCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNCCTCCGCC",
+    "kmer": "NCTTGT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNCGCANCNN",
+    "kmer": "NCTNCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNCTTCAGTG",
+    "kmer": "NCTNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNGAAATGCA",
+    "kmer": "NCNGCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNGCGGGGGG",
+    "kmer": "NCNNAG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNGGGCANNA",
+    "kmer": "NCNNGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNGGGGGGGG",
+    "kmer": "NCNNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNTCGCCNNC",
+    "kmer": "NCNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "GNTTCATCTG",
+    "kmer": "NGAAAT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNCGTGGGN",
+    "kmer": "NGAGGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNCGNNNGN",
+    "kmer": "NGATNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNGNNNNNN",
+    "kmer": "NGCAAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNTGAAAAG",
+    "kmer": "NGCAAC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNTNNCNNN",
+    "kmer": "NGCGGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNTNNNNNN",
+    "kmer": "NGGGCA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNNGNNNNN",
+    "kmer": "NGGGGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNNNNNNCT",
+    "kmer": "NGTGGC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "GNNNNNNNNN",
+    "kmer": "NGNACA",
     "ref_prop": 0.0,
-    "bam_prop": 0.000020699362459636242,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TAAAGNCGCA",
+    "kmer": "NGNCTT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TAAANGNTCN",
+    "kmer": "NGNGAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TATCNTCCGG",
+    "kmer": "NGNTCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCATTNNGNN",
+    "kmer": "NGNNAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCANAGACTT",
+    "kmer": "NGNNCG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCCTGCTTGN",
+    "kmer": "NGNNTG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCCNCTTGTN",
+    "kmer": "NGNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.00003234571095872687,
     "enrichment": null
   },
   {
-    "kmer": "TCGCCNNCNN",
+    "kmer": "NTCATA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCGTTCNNGN",
+    "kmer": "NTCCGG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCTTNAGTGA",
+    "kmer": "NTCCNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCNTCCGGGG",
+    "kmer": "NTCGCC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TCNNGNNNNN",
+    "kmer": "NTCNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGAAAAGANC",
+    "kmer": "NTGAAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGACAGNGGG",
+    "kmer": "NTGTCT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGATAAANGN",
+    "kmer": "NTTCAT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGCAAGTCAN",
+    "kmer": "NTNNCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGCTTGNNTN",
+    "kmer": "NTNNTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGGANGATNT",
+    "kmer": "NTNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "TGGCNNGNNN",
+    "kmer": "NNAAAC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGGGCAANNG",
+    "kmer": "NNAGTC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGGGTCTTNA",
+    "kmer": "NNANNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGGGTGTNGT",
+    "kmer": "NNANNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "TGGGNGGGGG",
+    "kmer": "NNCCCG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGGGNNGNNN",
+    "kmer": "NNCGTG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGTNGAGGGC",
+    "kmer": "NNCGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGTNGTGGCN",
+    "kmer": "NNCTNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGNTCGCCNN",
+    "kmer": "NNCNNA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TGNNTNNCNN",
+    "kmer": "NNCNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TTAAAGNCGC",
+    "kmer": "NNCNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "TTCNNGNNNN",
+    "kmer": "NNGCAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TTGATAAANG",
+    "kmer": "NNGNAC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TTGTNGAGGG",
+    "kmer": "NNGNCT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TTGNNTNNCN",
+    "kmer": "NNGNGA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TTNAGTGAAC",
+    "kmer": "NNGNNA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TTNTGTCTTG",
+    "kmer": "NNGNNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TTNNGNNANN",
+    "kmer": "NNGNNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNAAATCATC",
+    "kmer": "NNGNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.00003234571095872687,
     "enrichment": null
   },
   {
-    "kmer": "TNAGTGAACC",
+    "kmer": "NNTCCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNCNGCAACA",
+    "kmer": "NNTGAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNGAGGGCAG",
+    "kmer": "NNTNNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNGTGGCNNG",
+    "kmer": "NNTNNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNTGTCTTGC",
+    "kmer": "NNTNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNTNNNNNNN",
+    "kmer": "NNNAAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNNCNNNNNN",
+    "kmer": "NNNANN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNNGNNANNN",
+    "kmer": "NNNCCC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNNTCCNCTT",
+    "kmer": "NNNCTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNNNCCCGCT",
+    "kmer": "NNNCNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "TNNNNNNNNN",
+    "kmer": "NNNGNA",
     "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NAAACCCAAA",
+    "kmer": "NNNGNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NAAATCATCC",
+    "kmer": "NNNGNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NACAAGTGAA",
+    "kmer": "NNNGNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "NAGACTTGGC",
+    "kmer": "NNNTNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NAGTCAGGCC",
+    "kmer": "NNNNAA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NAGTGAACCA",
+    "kmer": "NNNNAN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NANNCNNAGT",
+    "kmer": "NNNNCT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NANNNNNNNN",
+    "kmer": "NNNNCN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NCAGTCAGAG",
+    "kmer": "NNNNGN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000025876568766981498,
     "enrichment": null
   },
   {
-    "kmer": "NCCCGCTGGA",
+    "kmer": "NNNNTN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NCCTCCGCCC",
+    "kmer": "NNNNNA",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "NCGCANCNNG",
+    "kmer": "NNNNNC",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000012938284383490749,
     "enrichment": null
   },
   {
-    "kmer": "NCGTGGGNNG",
+    "kmer": "NNNNNG",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 0.000025876568766981498,
     "enrichment": null
   },
   {
-    "kmer": "NCGTTACCCA",
+    "kmer": "NNNNNT",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
+    "bam_prop": 6.4691421917453745e-6,
     "enrichment": null
   },
   {
-    "kmer": "NCGNNNGNNN",
+    "kmer": "NNNNNN",
     "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCTTCAGTGA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCTTGTNGAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCTNCNGCAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCTNNNCCCG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCNGCAACAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCNNAGTCAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCNNGCAAAN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NCNNNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGAAATGCAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGAGGGCAGG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGATNTNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGCAAANTCA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGCAACAGAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGCGGGGGGN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGGGCANNAN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGGGGGGGGN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGTGGCNNGN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGNACAAGTG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGNCTTCAGT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGNGAAATGC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGNNCGNNNG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGNNTGAAAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NGNNNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTCATAGAAC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTCCGGGGAC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTCCNCTTGT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTCGCCNNCN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTGAAAAGAN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTGTCTTGCA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTTCATCTGG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTNNCNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTNNTCCNCT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NTNNNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNAAACCCAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNAGTCAGGC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNANNCNNAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNANNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNCCCGCTGG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNCGTGGGNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNCGNNNGNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNCTNNNCCC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNCNNAGTCA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNCNNGCAAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNCNNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGCAAANTC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGNACAAGT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGNCTTCAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGNGAAATG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGNNANNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGNNCGNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGNNTGAAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNGNNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 0.000020699362459636242,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNTCCNCTTG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNTGAAAAGA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNTNNCNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNTNNTCCNC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNTNNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNAAACCCA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNANNCNNA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNCCCGCTG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNCTNNNCC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNCNNGCAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNGNACAAG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNGNCTTCA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNGNGAAAT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNGNNTGAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNGNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNTNNTCCN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNAAACCC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNANNCNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNCTNNNC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNCNNGCA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNGNACAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNGNCTTC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNGNGAAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNGNNTGA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNTNNTCC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNAAACC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNANNCN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNCTNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNCNNGC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNGNACA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNGNCTT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNGNGAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNGNNTG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNTNNTC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNAAAC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNANNC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNCTNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNCNNG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNGNAC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNGNCT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNGNGA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNGNNT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNTNNT",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNAAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNANN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNCTN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNCNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNGNA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNGNC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNGNG",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNGNN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNAA",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNAN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNCN",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNGN",
-    "ref_prop": 0.0,
-    "bam_prop": 0.00002759914994618166,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNNA",
-    "ref_prop": 0.0,
-    "bam_prop": 0.00001379957497309083,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNNC",
-    "ref_prop": 0.0,
-    "bam_prop": 6.899787486545415e-6,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNNG",
-    "ref_prop": 0.0,
-    "bam_prop": 0.00002759914994618166,
-    "enrichment": null
-  },
-  {
-    "kmer": "NNNNNNNNNN",
-    "ref_prop": 0.0,
-    "bam_prop": 0.0002483923495156349,
+    "bam_prop": 0.0006339759347910467,
     "enrichment": null
   }
 ]
